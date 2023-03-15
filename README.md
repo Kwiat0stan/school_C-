@@ -1,2 +1,2 @@
-# school_C++
+# school_CPP
 Programs for school
